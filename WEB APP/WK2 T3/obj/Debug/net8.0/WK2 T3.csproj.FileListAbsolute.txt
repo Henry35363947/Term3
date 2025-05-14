@@ -1,0 +1,31 @@
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\appsettings.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\WK2 T3.staticwebassets.runtime.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\WK2 T3.exe
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\WK2 T3.deps.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\WK2 T3.runtimeconfig.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\WK2 T3.dll
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\bin\Debug\net8.0\WK2 T3.pdb
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.AssemblyInfoInputs.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.AssemblyInfo.cs
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.csproj.CoreCompileInputs.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.RazorAssemblyInfo.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.RazorAssemblyInfo.cs
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.sourcelink.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets\msbuild.WK2 T3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets\msbuild.build.WK2 T3.props
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WK2 T3.props
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WK2 T3.props
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\scopedcss\bundle\WK2 T3.styles.css
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\scopedcss\projectbundle\WK2 T3.bundle.scp.css
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.dll
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\refint\WK2 T3.dll
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.pdb
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\WK2 T3.genruntimeconfig.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\Term3\WEB APP\WK2 T3\obj\Debug\net8.0\ref\WK2 T3.dll
